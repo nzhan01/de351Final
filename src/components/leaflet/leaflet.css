@@ -1,0 +1,20 @@
+
+
+#map { height: 70vh;
+width: 85%;
+    display: block;
+
+}
+
+#leafletContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+
+
+
+}
