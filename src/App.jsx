@@ -4,6 +4,7 @@ import Navbar from './components/navbar/navbar.jsx'
 import './App.css'
 import Leaflet from "./components/leaflet/leaflet.jsx";
 import {createBrowserRouter, Route, RouterProvider, Routes} from "react-router";
+import About from "./components/about/about.jsx";
 function Root(){
 
     return(
@@ -15,7 +16,7 @@ function Root(){
 
                 <Routes>
                     <Route path = {`/*`} element ={<Leaflet/>} />
-
+                    <Route path = {`/about`} element ={<About/>} />
                 </Routes>
 
             </div>

@@ -25,9 +25,11 @@ font-size: 65px
 
     return( 
         <div id = "navbar">
-            <StyledTitle> FindMySunset</StyledTitle>
+            <StyledTitle> FindMyStory</StyledTitle>
 
             <Link to="/">Map</Link>
+            <Link to="/about">About</Link>
+
 
 
 
