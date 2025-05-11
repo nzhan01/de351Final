@@ -111,7 +111,7 @@ export default function Leaflet() {
                                     friends to go rock climbing. MOAB is known for its crack climbing which consists of long
                                     continuous cracks that run up the cliff walls.
                                 </p>
-                                <img src={ "../../../public/assets/MOAB.JPG" } alt = "MOAB" style={{ width: '300px' }} />
+                                <img src={ "/assets/MOAB.JPG" } alt = "MOAB" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -123,7 +123,7 @@ export default function Leaflet() {
                                     Last summer, I visited Braedon in his home town of Louisville, Colorado. Surprisingly, I'm from
                                     Louisville, Kentucky (the s is silent, like Louie-ville), while his Louisville has the "s".
                                 </p>
-                                <img src={ "../../../public/assets/Colorado.JPEG" } alt = "colorado" style={{ width: '300px' }} />
+                                <img src={ "/assets/Colorado.JPEG" } alt = "colorado" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
