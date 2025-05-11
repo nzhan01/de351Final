@@ -17,6 +17,7 @@ function Root(){
                 <Routes>
                     <Route path = {`/*`} element ={<Leaflet/>} />
                     <Route path = {`/about`} element ={<About/>} />
+
                 </Routes>
 
             </div>
