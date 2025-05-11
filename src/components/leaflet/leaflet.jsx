@@ -123,7 +123,7 @@ export default function Leaflet() {
                                     Last summer, I visited Braedon in his home town of Louisville, Colorado. Surprisingly, I'm from
                                     Louisville, Kentucky (the s is silent, like Louie-ville), while his Louisville has the "s".
                                 </p>
-                                <img src={ "/assets/Colorado.JPEG" } alt = "colorado" style={{ width: '300px' }} />
+                                <img src={ "/assets/ColoradoNew.JPEG" } alt = "colorado" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -135,7 +135,7 @@ export default function Leaflet() {
                                     Thanksgiving 2024, I visited my friend Lola who lives in NYC. She showed
                                     me around the city and this picture is of us during the Thanksgiving parade.
                                 </p>
-                                <img src={ "../../../public/assets/NYC.JPEG" } alt = "nyc" style={{ width: '300px' }} />
+                                <img src={ "/assets/NYC.JPEG" } alt = "nyc" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -148,7 +148,7 @@ export default function Leaflet() {
                                     the Mayan pyramids of Chichén Itzá.
 
                                 </p>
-                                <img src={ "../../../public/assets/Mexico.JPG" } alt = "mexico" style={{ width: '300px' }} />
+                                <img src={ "/assets/Mexico.JPG" } alt = "mexico" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -163,7 +163,7 @@ export default function Leaflet() {
                                     attractions of Kentucky.
 
                                 </p>
-                                <img src={ "../../../public/assets/RRG.JPEG" } alt = "RRG" style={{ width: '300px' }} />
+                                <img src={ "/assets/RRG.JPEG" } alt = "RRG" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -177,7 +177,7 @@ export default function Leaflet() {
                                     In my senior of high school, my friend Rishi and I flew to LA to visit his cousin. This
                                     was my first time visiting the west coast.
                                 </p>
-                                <img src={ "../../../public/assets/California.JPG" } alt = "california" style={{ width: '300px' }} />
+                                <img src={ "/assets/California.JPG" } alt = "california" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -193,7 +193,7 @@ export default function Leaflet() {
                                     This picture was of me on the hike up. The hike required lots of rock scrambling but
                                     the view was definitely worth it.
                                 </p>
-                                <img src={ "../../../public/assets/Acadia.JPG" } alt = "acadia" style={{ width: '300px' }} />
+                                <img src={ "/assets/Acadia.JPG" } alt = "acadia" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -208,7 +208,7 @@ export default function Leaflet() {
                                     When I was 8 years old, my parents and I visited a family friend's cabin near
                                     Toronto. We got to go on a boat on the pond near their cabin.
                                 </p>
-                                <img src={ "../../../public/assets/Canada.JPG" } alt = "canada" style={{ width: '300px' }} />
+                                <img src={ "/assets/Canada.JPG" } alt = "canada" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -222,7 +222,7 @@ export default function Leaflet() {
                                     In 2019, my family went to the University of Rochester to attend my brother Jack's
                                     college graduation.
                                 </p>
-                                <img src={ "../../..public/assets/Rochester.JPEG" } alt = "rochester" style={{ width: '300px' }} />
+                                <img src={ "/assets/Rochester.JPEG" } alt = "rochester" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -236,7 +236,7 @@ export default function Leaflet() {
                                     This is Mount Monadnock which is one of the highest peaks in the Northeast.
                                     I hiked this with some friends my freshman year.
                                 </p>
-                                <img src={ "../../../public/assets/monadnok.JPG" } alt = "monadnok" style={{ width: '300px' }} />
+                                <img src={ "/assets/monadnok.JPG" } alt = "monadnok" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -251,7 +251,7 @@ export default function Leaflet() {
                                     bus to Sandwich, MA. We had to walk a couple miles from the bus stop along the road
                                     until we eventually found our way to the coast.
                                 </p>
-                                <img src={ "../../../public/assets/sandwichMA.JPG" } alt = "sandwich" style={{  width: '250px' }} />
+                                <img src={ "/assets/sandwichMA.JPG" } alt = "sandwich" style={{  width: '250px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -266,7 +266,7 @@ export default function Leaflet() {
                                     as well.
 
                                 </p>
-                                <img src={ "../../../public/assets/Madrid.JPG" } alt = "madrid" style={{  width: '250px' }} />
+                                <img src={ "/assets/Madrid.JPG" } alt = "madrid" style={{  width: '250px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -282,7 +282,7 @@ export default function Leaflet() {
                                     until we eventually found our way to the coast.
                                 </p>
 
-                                <img src={ "../../../public/assets/London.JPEG" } alt = "london" style={{  width: '250px' }} />
+                                <img src={ "/assets/London.JPEG" } alt = "london" style={{  width: '250px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -297,7 +297,7 @@ export default function Leaflet() {
 
                                 </p>
 
-                                <img src={ "../../../public/assets/DR.JPEG" } alt = "DR" style={{  width: '250px' }} />
+                                <img src={ "/assets/DR.JPEG" } alt = "DR" style={{  width: '250px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -310,7 +310,7 @@ export default function Leaflet() {
                                     at the University of Cincinnati. This was the first time I was able to see some of them
                                     since high school.
                                 </p>
-                                <img src={ "../../../public/assets/Cincinatti.JPG" } alt = "cinci" style={{  width: '250px' }} />
+                                <img src={ "/assets/Cincinatti.JPG" } alt = "cinci" style={{  width: '250px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
@@ -323,7 +323,7 @@ export default function Leaflet() {
                                     During my junior year of high school, I participated in a strike at the Kentucky State Capitol
                                     where we advocated for a clean water bill which eventually did get passed!
                                 </p>
-                                <img src={ "../../../public/assets/Frankfort.JPG" } alt = "frankfort" style={{  width: '250px' }} />
+                                <img src={ "/assets/Frankfort.JPG" } alt = "frankfort" style={{  width: '250px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
