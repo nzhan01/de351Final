@@ -123,7 +123,7 @@ export default function Leaflet() {
                                     Last summer, I visited Braedon in his home town of Louisville, Colorado. Surprisingly, I'm from
                                     Louisville, Kentucky (the s is silent, like Louie-ville), while his Louisville has the "s".
                                 </p>
-                                <img src={ "/assets/ColoradoNew.JPEG" } alt = "colorado" style={{ width: '300px' }} />
+                                <img src={ "/assets/ColoradoNew.jpg" } alt = "colorado" style={{ width: '300px' }} />
                             </ImageContainer>
                         </Popup>
                     </Marker>
